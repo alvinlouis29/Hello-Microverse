@@ -4,35 +4,18 @@
 
 > Description the project.
 
-In this project i am going to create a simple webpage that displays "Hello Microverse",
+In this project i am going to create a simple webpage that displays "Hello Microverse" in the color red, and using the tools and best practices about git and github flow to complete the project.
+![screenshot](./screenshot.png)
 
 ## Built With
 
 - Html
-
-
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- CSS
+- Git
 
 ## Authors
 
-👤 **Author1**
+👤 **Ssegawa Alvin Louis**
 
 - GitHub: [@githubhandle](https://github.com/alvinlouis29)
 - Twitter: [@twitterhandle](https://twitter.com/louisssegawa)
