@@ -4,7 +4,7 @@
 
 > Description the project.
 
-In this project i am going to create a simple webpage that displays "Hello Microverse" in the color red, and using the tools and best practices about git and github flow to complete the project.
+In this project i am going to create a simple webpage that displays "Hello Microverse" in the color red, using the tools and best practices about git and github flow to complete the project.
 ![screenshot](app_screenshot.png)
 
 ## Built With
